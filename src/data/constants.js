@@ -358,7 +358,7 @@ export const projects = [
     description:
       "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
     image:
-      "https://private-user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE4NjY4MTksIm5iZiI6MTczMTg2NjUxOSwicGF0aCI6Ii82NDQ4NTg4NS8yNTUyMDI0MTYtZTFmODliMDQtMjc4OC00NWIwLWFiYzItOWRlYzYxNjY2OWUyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE3VDE4MDE1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFhY2Y2NTkzZTJkMzZmZTNlNzAzNjAzNWNmYWMxMjA5ZTYwZGYyOTBlN2M4MzUwYzNmZGQ5Njc3NDM1NjAyMDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qZg_XlUOmGuGjaYlb9HuqUUbzsOwauw89HfOyS85v_w",
+        "https://github.com/rishavchanda/Trackify/assets/64485885/73e4747d-f5bc-49f7-95dc-272837910da2",
     tags: [
       "Docker",
       "AWS",
