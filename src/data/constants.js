@@ -11,7 +11,7 @@ export const Bio = {
      "I'm a Full Stack Engineer focused on building scalable, reliable distributed systems. With experience across web, mobile, monolithic, and microservices architectures, I'm skilled in systems design and infrastructure. Outside of work, I'm a competitive programmer and music enthusiast.",
   github: "https://github.com/vyshnavigaripelly",
   resume:
-    "https://drive.google.com/file/d/1JEphzhHmS_AQzhZsS9Te-dTqK4fAjB_9/view?usp=sharing",
+    "https://drive.google.com/file/d/1NofhJ1VnojVRwlSML-4gJjPDKxDOA8Bf/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vyshnavig0713/",
   leetcode: "https://leetcode.com/u/vaish304/",
 
